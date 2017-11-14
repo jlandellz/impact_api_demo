@@ -1,6 +1,6 @@
 # Zenoss Service Impact API Demo
 This repo contains a python script which is designed to demonstrate how the Zenoss REST API can be used to create services.
-In order to use it, you'll also need the awesome Zenoss API helper classes developed by Adam McCurdy: https://github.com/amccurdy/zenoss_api, and will need your system configured to point this API to your target Zenoss system.
+In order to use it, you'll also need the awesome Zenoss API helper classes developed by [Adam McCurdy](https://github.com/amccurdy): https://github.com/amccurdy/zenoss_api, and will need your system configured to point this API to your target Zenoss system.
 
 The script is designed to take a single parameter on the command line, in the form of a JSON string, containing the following entries:
 
